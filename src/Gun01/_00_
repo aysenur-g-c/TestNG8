@@ -1,0 +1,20 @@
+Developer main diyerek kod yazmaya başlıyor
+Test in düzenine karşılık gelmiyor, neden
+Test sonucu dönen metodlar lazım Passed veya Fail
+
+JUnit -> test metodları yazmak kullanılıyor, normalde devler kullanıyor
+
+Testing ortaya çıktığında JUnit yetersiz kalıyor.
+testerlar smoke,regression, vs yapıyor. ve yetersiz kalıyor
+
+Yeni nesil Test lib -> TestNewGeneration -> TestNG
+Testerın ihtiyacı olabilecek, testlerini organize etmesi
+için her türlü ihtiyacı koyuyorlar
+
+testNG jUnit in gelişmiş hali aslında
+
+sonradan JUnit i de geliştiriyorlar
+TestNG -> yazılan testleri smoketest vb şekilde
+ORGANİZE eden kütüphaneler.
+
+şirketler daha çok testNG kullanıyor

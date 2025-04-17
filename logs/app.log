@@ -1,0 +1,334 @@
+2025-04-12 16:23:18.330 INFO  Log Tutma işlemi Başladı
+2025-04-12 16:23:21.900 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-12 16:23:21.900 INFO  Login Test Başladı
+2025-04-12 16:23:29.501 INFO  Login Testi tamamlandı
+2025-04-12 16:23:29.511 INFO  Metod başladı
+2025-04-12 16:23:29.511 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-12 16:23:30.990 INFO  addToWishList,  Metod Bitti Sonuc=Passed
+2025-04-12 16:23:30.990 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-12 16:23:35.860 INFO  Driver kapatıldı
+2025-04-12 16:23:35.860 WARN  Driver kapatılamadı.
+2025-04-12 16:25:12.314 INFO  Log Tutma işlemi Başladı
+2025-04-12 16:25:13.573 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-12 16:25:13.573 INFO  Login Test Başladı
+2025-04-12 16:25:22.056 INFO  Login Testi tamamlandı
+2025-04-12 16:25:22.071 INFO  Metod başladı
+2025-04-12 16:25:22.071 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-12 16:25:24.158 FATAL addToWishList testi hatalı bitti
+2025-04-12 16:25:24.159 INFO  addToWishList testi bitti
+2025-04-12 16:25:24.167 INFO  addToWishList,  Metod Bitti Sonuc=Passed
+2025-04-12 16:25:24.167 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-12 16:25:27.484 INFO  Driver kapatıldı
+2025-04-12 16:25:27.484 WARN  Driver kapatılamadı.
+2025-04-12 16:50:23.093 INFO  Log Tutma işlemi Başladı
+2025-04-12 16:50:25.262 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-12 16:50:25.263 INFO  Login Test Başladı
+2025-04-12 16:50:34.477 INFO  Login Testi tamamlandı
+2025-04-12 16:50:34.487 INFO  Metod başladı
+2025-04-12 16:50:34.487 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-12 16:50:36.584 FATAL addToWishList testi hatalı bitti
+2025-04-12 16:50:36.585 INFO  addToWishList testi bitti
+2025-04-12 16:50:36.592 INFO  addToWishList,  Metod Bitti Sonuc=Passed
+2025-04-12 16:50:36.592 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-12 16:50:39.812 INFO  Driver kapatıldı
+2025-04-12 16:50:39.812 WARN  Driver kapatılamadı.
+2025-04-16 01:52:56.569 INFO  Log Tutma işlemi Başladı
+2025-04-16 01:53:01.664 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-16 01:53:01.666 INFO  Login Test Başladı
+2025-04-16 01:54:14.427 INFO  Log Tutma işlemi Başladı
+2025-04-16 01:54:15.966 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-16 01:54:15.966 INFO  Login Test Başladı
+2025-04-16 01:57:49.818 INFO  Log Tutma işlemi Başladı
+2025-04-16 01:57:51.149 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-16 01:57:51.150 INFO  Login Test Başladı
+2025-04-16 01:58:45.173 INFO  Log Tutma işlemi Başladı
+2025-04-16 01:58:46.577 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-16 01:58:46.577 INFO  Login Test Başladı
+2025-04-16 02:08:03.607 INFO  Log Tutma işlemi Başladı
+2025-04-16 02:08:06.512 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-16 02:08:06.514 INFO  Login Test Başladı
+2025-04-16 02:10:03.903 INFO  Log Tutma işlemi Başladı
+2025-04-16 02:10:06.642 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-16 02:10:06.642 INFO  Login Test Başladı
+2025-04-16 02:10:10.809 INFO  Login Testi tamamlandı
+2025-04-16 02:10:10.826 INFO  Metod başladı
+2025-04-16 02:10:10.826 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-16 02:10:12.827 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-16 02:10:12.827 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-16 02:10:16.183 INFO  Driver kapatıldı
+2025-04-16 02:10:16.183 WARN  Driver kapatılamadı.
+2025-04-18 00:16:11.578 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:16:15.071 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:16:15.072 INFO  Login Test Başladı
+2025-04-18 00:16:22.480 INFO  Login Testi tamamlandı
+2025-04-18 00:16:22.503 INFO  Metod başladı
+2025-04-18 00:16:22.504 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:16:27.677 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:16:27.677 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:16:30.896 INFO  Driver kapatıldı
+2025-04-18 00:16:30.902 WARN  Driver kapatılamadı.
+2025-04-18 00:17:24.494 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:17:25.924 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:17:25.924 INFO  Login Test Başladı
+2025-04-18 00:17:33.604 INFO  Login Testi tamamlandı
+2025-04-18 00:17:33.632 INFO  Metod başladı
+2025-04-18 00:17:33.632 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:17:38.077 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:17:38.077 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:17:41.384 INFO  Driver kapatıldı
+2025-04-18 00:17:41.384 WARN  Driver kapatılamadı.
+2025-04-18 00:18:17.495 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:18:18.762 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:18:18.763 INFO  Login Test Başladı
+2025-04-18 00:18:25.832 INFO  Login Testi tamamlandı
+2025-04-18 00:18:25.854 INFO  Metod başladı
+2025-04-18 00:18:25.855 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:18:32.128 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:18:32.128 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:18:35.454 INFO  Driver kapatıldı
+2025-04-18 00:18:35.455 WARN  Driver kapatılamadı.
+2025-04-18 00:22:22.636 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:22:24.088 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:22:24.089 INFO  Login Test Başladı
+2025-04-18 00:22:31.490 INFO  Login Testi tamamlandı
+2025-04-18 00:22:31.522 INFO  Metod başladı
+2025-04-18 00:22:31.523 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:22:35.305 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:22:35.305 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:22:38.627 INFO  Driver kapatıldı
+2025-04-18 00:22:38.627 WARN  Driver kapatılamadı.
+2025-04-18 00:30:09.134 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:30:11.518 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:30:11.520 INFO  Login Test Başladı
+2025-04-18 00:30:18.721 INFO  Login Testi tamamlandı
+2025-04-18 00:30:18.758 INFO  Metod başladı
+2025-04-18 00:30:18.758 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:30:23.313 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:30:23.313 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:30:26.689 INFO  Driver kapatıldı
+2025-04-18 00:30:26.689 WARN  Driver kapatılamadı.
+2025-04-18 00:36:42.388 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:36:44.001 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:36:44.004 INFO  Login Test Başladı
+2025-04-18 00:36:51.432 INFO  Login Testi tamamlandı
+2025-04-18 00:36:51.456 INFO  Metod başladı
+2025-04-18 00:36:51.456 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:36:56.189 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:36:56.190 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:36:59.619 INFO  Driver kapatıldı
+2025-04-18 00:36:59.620 WARN  Driver kapatılamadı.
+2025-04-18 00:51:19.800 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:51:22.371 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:51:22.372 INFO  Login Test Başladı
+2025-04-18 00:51:29.646 INFO  Login Testi tamamlandı
+2025-04-18 00:51:29.679 INFO  Metod başladı
+2025-04-18 00:51:29.679 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:51:44.424 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:51:44.425 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:51:47.844 INFO  Driver kapatıldı
+2025-04-18 00:51:47.845 WARN  Driver kapatılamadı.
+2025-04-18 00:57:40.468 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:57:42.354 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:57:42.354 INFO  Login Test Başladı
+2025-04-18 00:57:49.770 INFO  Login Testi tamamlandı
+2025-04-18 00:57:49.819 INFO  Metod başladı
+2025-04-18 00:57:49.819 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:57:54.891 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 00:57:54.891 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:57:58.342 INFO  Driver kapatıldı
+2025-04-18 00:57:58.342 WARN  Driver kapatılamadı.
+2025-04-18 00:59:12.325 INFO  Log Tutma işlemi Başladı
+2025-04-18 00:59:13.988 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 00:59:13.988 INFO  Login Test Başladı
+2025-04-18 00:59:20.989 INFO  Login Testi tamamlandı
+2025-04-18 00:59:21.015 INFO  Metod başladı
+2025-04-18 00:59:21.016 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 00:59:37.529 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 00:59:37.530 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 00:59:40.985 INFO  Driver kapatıldı
+2025-04-18 00:59:40.985 WARN  Driver kapatılamadı.
+2025-04-18 01:01:21.091 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:01:22.689 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:01:22.691 INFO  Login Test Başladı
+2025-04-18 01:01:30.605 INFO  Login Testi tamamlandı
+2025-04-18 01:01:30.628 INFO  Metod başladı
+2025-04-18 01:01:30.629 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:01:46.902 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:01:46.902 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:01:50.354 INFO  Driver kapatıldı
+2025-04-18 01:01:50.355 WARN  Driver kapatılamadı.
+2025-04-18 01:12:21.163 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:12:22.824 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:12:22.827 INFO  Login Test Başladı
+2025-04-18 01:12:30.462 INFO  Login Testi tamamlandı
+2025-04-18 01:12:30.517 INFO  Metod başladı
+2025-04-18 01:12:30.518 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:12:45.814 INFO  LoginHatalari,  Metod Bitti Sonuc=Failed
+2025-04-18 01:12:45.815 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:12:45.828 INFO  Metod başladı
+2025-04-18 01:12:45.828 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:12:50.892 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:12:50.892 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:12:54.285 INFO  Driver kapatıldı
+2025-04-18 01:12:54.287 WARN  Driver kapatılamadı.
+2025-04-18 01:14:53.761 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:14:55.431 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:14:55.433 INFO  Login Test Başladı
+2025-04-18 01:15:02.471 INFO  Login Testi tamamlandı
+2025-04-18 01:15:02.503 INFO  Metod başladı
+2025-04-18 01:15:02.503 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:15:17.512 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:15:17.513 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:15:20.988 INFO  Driver kapatıldı
+2025-04-18 01:15:20.988 WARN  Driver kapatılamadı.
+2025-04-18 01:15:41.864 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:15:43.239 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:15:43.240 INFO  Login Test Başladı
+2025-04-18 01:15:50.775 INFO  Login Testi tamamlandı
+2025-04-18 01:15:50.815 INFO  Metod başladı
+2025-04-18 01:15:50.816 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:16:05.741 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:16:05.742 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:16:05.749 INFO  Metod başladı
+2025-04-18 01:16:05.750 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:16:10.811 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:16:10.811 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:16:14.243 INFO  Driver kapatıldı
+2025-04-18 01:16:14.244 WARN  Driver kapatılamadı.
+2025-04-18 01:16:55.424 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:16:57.662 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:16:57.665 INFO  Login Test Başladı
+2025-04-18 01:17:04.753 INFO  Login Testi tamamlandı
+2025-04-18 01:17:04.777 INFO  Metod başladı
+2025-04-18 01:17:04.777 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:17:24.247 INFO  LoginHatalari2,  Metod Bitti Sonuc=Passed
+2025-04-18 01:17:24.248 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:17:27.701 INFO  Driver kapatıldı
+2025-04-18 01:17:27.701 WARN  Driver kapatılamadı.
+2025-04-18 01:17:33.949 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:17:35.317 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:17:35.319 INFO  Login Test Başladı
+2025-04-18 01:17:42.369 INFO  Login Testi tamamlandı
+2025-04-18 01:17:42.400 INFO  Metod başladı
+2025-04-18 01:17:42.400 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:17:57.114 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:17:57.116 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:17:57.150 INFO  Metod başladı
+2025-04-18 01:17:57.151 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:18:05.237 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:18:05.237 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:18:08.644 INFO  Driver kapatıldı
+2025-04-18 01:18:08.644 WARN  Driver kapatılamadı.
+2025-04-18 01:20:31.711 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:20:33.121 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:20:33.122 INFO  Login Test Başladı
+2025-04-18 01:20:40.176 INFO  Login Testi tamamlandı
+2025-04-18 01:20:40.203 INFO  Metod başladı
+2025-04-18 01:20:40.204 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:20:59.644 INFO  LoginHatalari2,  Metod Bitti Sonuc=Passed
+2025-04-18 01:20:59.645 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:21:03.119 INFO  Driver kapatıldı
+2025-04-18 01:21:03.119 WARN  Driver kapatılamadı.
+2025-04-18 01:21:09.672 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:21:11.047 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:21:11.047 INFO  Login Test Başladı
+2025-04-18 01:21:18.166 INFO  Login Testi tamamlandı
+2025-04-18 01:21:18.199 INFO  Metod başladı
+2025-04-18 01:21:18.199 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:21:33.111 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:21:33.113 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:21:33.133 INFO  Metod başladı
+2025-04-18 01:21:33.134 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:21:41.219 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:21:41.219 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:21:44.632 INFO  Driver kapatıldı
+2025-04-18 01:21:44.632 WARN  Driver kapatılamadı.
+2025-04-18 01:25:10.592 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:25:12.050 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:25:12.051 INFO  Login Test Başladı
+2025-04-18 01:25:19.147 INFO  Login Testi tamamlandı
+2025-04-18 01:25:19.173 INFO  Metod başladı
+2025-04-18 01:25:19.173 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:25:34.064 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:25:34.064 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:25:34.074 INFO  Metod başladı
+2025-04-18 01:25:34.074 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:25:42.180 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:25:42.180 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:25:46.184 INFO  Driver kapatıldı
+2025-04-18 01:25:46.185 WARN  Driver kapatılamadı.
+2025-04-18 01:27:06.547 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:27:08.298 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:27:08.298 INFO  Login Test Başladı
+2025-04-18 01:27:15.267 INFO  Login Testi tamamlandı
+2025-04-18 01:27:15.287 INFO  Metod başladı
+2025-04-18 01:27:15.288 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:27:32.237 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:27:32.238 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:27:32.248 INFO  Metod başladı
+2025-04-18 01:27:32.248 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:27:40.307 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:27:40.307 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:27:43.751 INFO  Driver kapatıldı
+2025-04-18 01:27:43.752 WARN  Driver kapatılamadı.
+2025-04-18 01:29:43.985 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:29:45.550 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:29:45.551 INFO  Login Test Başladı
+2025-04-18 01:29:48.873 INFO  Login Testi tamamlandı
+2025-04-18 01:29:48.886 INFO  Metod başladı
+2025-04-18 01:29:48.886 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:30:00.265 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:30:01.737 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:30:01.740 INFO  Login Test Başladı
+2025-04-18 01:30:09.036 INFO  Login Testi tamamlandı
+2025-04-18 01:30:09.066 INFO  Metod başladı
+2025-04-18 01:30:09.066 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:30:24.036 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:30:24.036 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:30:24.047 INFO  Metod başladı
+2025-04-18 01:30:24.049 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:30:50.770 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:30:50.770 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:30:54.129 INFO  Driver kapatıldı
+2025-04-18 01:30:54.129 WARN  Driver kapatılamadı.
+2025-04-18 01:34:05.665 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:34:11.226 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:34:13.035 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:34:13.036 INFO  Login Test Başladı
+2025-04-18 01:34:20.841 INFO  Login Testi tamamlandı
+2025-04-18 01:34:20.890 INFO  Metod başladı
+2025-04-18 01:34:20.890 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:34:36.658 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:34:36.659 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:34:36.663 INFO  Metod başladı
+2025-04-18 01:34:36.663 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:34:46.736 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:34:46.736 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:34:50.014 INFO  Driver kapatıldı
+2025-04-18 01:34:50.014 WARN  Driver kapatılamadı.
+2025-04-18 01:35:01.427 INFO  ✓ Eski chromedriver işlemleri kapatıldı.
+2025-04-18 01:35:01.430 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:35:02.994 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:35:02.996 INFO  Login Test Başladı
+2025-04-18 01:35:10.416 INFO  Login Testi tamamlandı
+2025-04-18 01:35:10.451 INFO  Metod başladı
+2025-04-18 01:35:10.451 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:35:25.445 INFO  LoginHatalari,  Metod Bitti Sonuc=Passed
+2025-04-18 01:35:25.446 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:35:25.456 INFO  Metod başladı
+2025-04-18 01:35:25.457 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:35:35.566 INFO  LoginHatalari2,  Metod Bitti Sonuc=Failed
+2025-04-18 01:35:35.567 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:35:38.944 INFO  Driver kapatıldı
+2025-04-18 01:35:38.944 WARN  Driver kapatılamadı.
+2025-04-18 01:35:51.392 INFO  ✓ Eski chromedriver işlemleri kapatıldı.
+2025-04-18 01:35:51.395 INFO  Log Tutma işlemi Başladı
+2025-04-18 01:35:52.795 INFO  Başlangıç değişkenleri driver, wait, log tanımlandı ve başlatıldı
+2025-04-18 01:35:52.796 INFO  Login Test Başladı
+2025-04-18 01:36:00.125 INFO  Login Testi tamamlandı
+2025-04-18 01:36:00.170 INFO  Metod başladı
+2025-04-18 01:36:00.173 WARN  WARN : Metod başladı, hata oluşmuş olsa idi
+2025-04-18 01:36:21.423 INFO  LoginHatalari2,  Metod Bitti Sonuc=Passed
+2025-04-18 01:36:21.423 WARN  WARN : Metod bitti, hata oluşmuş olsa idi bu şekilde eklenebilir.Bir if kontrolü ile
+2025-04-18 01:36:24.864 INFO  Driver kapatıldı
+2025-04-18 01:36:24.864 WARN  Driver kapatılamadı.
